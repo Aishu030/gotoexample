@@ -1,0 +1,8 @@
+C:\Users\raish\source\repos\mphasis\GotoExample\GotoExample\bin\Debug\GotoExample.exe.config
+C:\Users\raish\source\repos\mphasis\GotoExample\GotoExample\bin\Debug\GotoExample.exe
+C:\Users\raish\source\repos\mphasis\GotoExample\GotoExample\bin\Debug\GotoExample.pdb
+C:\Users\raish\source\repos\mphasis\GotoExample\GotoExample\obj\Debug\GotoExample.csproj.AssemblyReference.cache
+C:\Users\raish\source\repos\mphasis\GotoExample\GotoExample\obj\Debug\GotoExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\raish\source\repos\mphasis\GotoExample\GotoExample\obj\Debug\GotoExample.csproj.CoreCompileInputs.cache
+C:\Users\raish\source\repos\mphasis\GotoExample\GotoExample\obj\Debug\GotoExample.exe
+C:\Users\raish\source\repos\mphasis\GotoExample\GotoExample\obj\Debug\GotoExample.pdb
